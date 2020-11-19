@@ -27,10 +27,11 @@ npm start
 ```
 And open http://localhost:5000 in a browser
 
-## Contact
+## Contact & Further information
 Please contact me for any further questions. 
 shyan.chien@wsp.com
 
+For more Forge API information: https://forge.autodesk.com/en/docs/
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
