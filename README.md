@@ -12,6 +12,8 @@ https://wsp-forge-app.herokuapp.com/api/forge/oss/bucketTree - Retrieves bucket 
 
 This code is merely an example of how to implement the viewer, and introduces the API end points to be called. You may also try running it. 
 
+These are GET requests
+
 ## Running the sample
 
 Install the required packages:
